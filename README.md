@@ -1,3 +1,3 @@
 1.  power BI: https://github.com/r00na/Jordan_Population_Dashboard
-2.  ML using streamlit: 
+2.  ML using streamlit: https://github.com/r00na/Programming_Assistant_LLM_RAG
 3.  Agentic Ai ( tool= N8N ): 
